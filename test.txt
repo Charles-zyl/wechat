@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 this is root;
 
+=======
+<<<<<<< HEAD
+这是master
+=======
+这是div
+>>>>>>> dev
+>>>>>>> master
